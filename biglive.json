@@ -1,0 +1,65 @@
+{
+    "BIG": {
+        "lojas": "400",
+        "vendas": "23456899",
+        "comp": "-2.98",
+        "plano": "98.87"
+    },
+    "Varejo": {
+        "lojas": "320",
+        "vendas": "13111444",
+        "comp": "-7.98",
+        "plano": "92.12"
+    },
+    "Hiper": {
+        "lojas": "32",
+        "vendas": "13111444",
+        "comp": "-7.98",
+        "plano": "92.12"
+    },
+    "Super": {
+        "lojas": "32",
+        "vendas": "13111444",
+        "comp": "-7.98",
+        "plano": "92.12"
+    },
+    "Tododia": {
+        "lojas": "32",
+        "vendas": "13111444",
+        "comp": "-7.98",
+        "plano": "92.12"
+    },
+    "SAMS": {
+        "lojas": "28",
+        "vendas": "7890678",
+        "comp": "4.8",
+        "plano": "115.8"
+    },
+    "Farma": {
+        "lojas": "120",
+        "vendas": "1789789",
+        "comp": "1.8",
+        "plano": "101.87"
+    },
+    "Maxxi": {
+        "lojas": "44",
+        "vendas": "9789123",
+        "comp": "10.9",
+        "plano": "120.7"
+    },
+    "Vitoria": {
+        "lojas": "60",
+        "vendas": "10999222",
+        "comp": "8.9",
+        "plano": "110.7"
+    },
+    "Reinauguracao": {
+        "lojas": "12",
+        "vendas": "29789123",
+        "comp": "12.9",
+        "plano": "120.7"
+    },
+    "Status": {
+        "atualizacao": "08:48"
+    }
+}
