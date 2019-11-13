@@ -1,24 +1,1110 @@
-{    
-    "alunos":[
-        {"nome": "Maria Karoline da Cunha Melo", "senha": "2053", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2053.htm"},
-        {"nome": "Matheus Andrade da Silva", "senha": "1652", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/1652.htm"},
-        {"nome": "Carlos Eduardo Freitas Ferreira", "senha": "2191", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2191.htm"},
-        {"nome": "Rodrigo Guilherme Leite Ribeiro", "senha": "2243", "serie": "\u00a0", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2243.htm"},
-        {"nome": "Maria Luiza Albuquerque de Souza\r\n  Santos", "senha": "1511", "serie": "\u00a0", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/1511.htm"},
-        {"nome": "Bruna Hellen Silva Veloso", "senha": "2291", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2291.htm"},
-        {"nome": "Ariane Ximenes de Oliveira Santana ", "senha": "2072", "serie": "\u00a0", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2072.htm"},
-        {"nome": "Brunna Beatriz Gama da Silva", "senha": "2325", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2325.htm"},
-        {"nome": "Helena Ferreira Maia", "senha": "1232", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/1232.htm"},
-        {"nome": "Jos\u00e9 Lucas da Silva", "senha": "2290", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2290.htm"},
-        {"nome": "Brenda Laryssa dos Santos Silva", "senha": "2345", "serie": "\u00a0", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2345.htm"},
-        {"nome": "Manoel Vitor Gomes de Queiroz", "senha": "1590", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/1590.htm"},
-        {"nome": "Lucas Felix Cabral da Silva", "senha": "1863", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/1863.htm"},
-        {"nome": "Catarina Gomes de Freitas", "senha": "2306", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2306.htm"},
-        {"nome": "Yasmim Fernanda de Oliveira Veloso", "senha": "2646", "serie": "\u00a0", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2646.htm"},
-        {"nome": "Maristela Freire Marinho", "senha": "2406", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2406.htm"},
-        {"nome": "Ygor Alei de Melo Correia", "senha": "2453", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2453.htm"},
-        {"nome": "Yuri ", "senha": "2357", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2357.htm"},
-        {"nome": "Bruno Juli\u00e3o de Negreiros", "senha": "2331", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2331.htm"},
-        {"nome": "Rebeka Gomes da Silva", "senha": "2324", "serie": "3\u00ba EM", "url": "http://www.institutosantatereza.com.br/boletins/turma_3_ano_ensino_medio/2324.htm"}
+{
+    "GraphImages": [
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": []
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/03d78519ef5aaa9617520925847bcbe3/5E4B5418/t51.2885-15/e35/75291143_705809889911117_1951187887758868722_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=105&se=8&ig_cache_key=MjE3NTU5MjgyNTQzNzg5OTY1Mw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 31
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "A AESO-Barros Melo recebe, de 13 a 20 de novembro, a exposição “Arte e Inclusão”, que apresenta trabalhos produzidos por crianças, adolescentes e adultos com distúrbio de aprendizagem nas oficinas promovidas pelo Núcleo de Apoio Pedagógico Especializado (NAPEE). A iniciativa partiu da ex-aluna das FIBAM, Christianne Corrêa, que atua na iniciativa desde 2013, ministrando oficinas de fotografia. \n#aeso #barrosmelo #exposição"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2175592825437899653",
+            "is_video": false,
+            "media_preview": "ACoq0M1SNy3bAp1xcGNtq49TmqavuHvWHK7XfU6ItNtdSyLhu+DV0HPIrLqzNvAXaM+uO3FS0VLQu0tVrbdglgQSe/fjr/nvmrFIgyLj/WN9arZYP8uOnGcYz757etX72La2/s38/wD69Zx2lwGzjB6ehyP16flXUmuX5HNqpfMsv5oGYihO4YB2ZAx1znHzf/qqaR7gBgmCy/7vHToOvrjPX9KpxNEHyMqqngnA6BsZ+vI9ckVeS4WNienmPyDjIyOvHboPx+tYtW6fgbJ33EkN2AfLHJbIyQcL0xzwOmTj1rUGMc9e+KqWl2t0CVBG04596t1D7FoVlDDDDIPaqX2PYcpx+AOfzq9S1DV9B+ZlpbnzmBOOM9AeuPUetXPJOSQ2M9RtX/DNWaSqvsuyJSt99yv5JHRiM+gX/CphS0UFH//Z",
+            "owner": {
+                "id": "9197497"
+            },
+            "shortcode": "B4xQiXgHUuF",
+            "tags": [
+                "barrosmelo",
+                "aeso",
+                "exposição"
+            ],
+            "taken_at_timestamp": 1573570896,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/b611a51cd5d90f811952c4ec29f5f77c/5E435D5A/t51.2885-15/e35/s150x150/75291143_705809889911117_1951187887758868722_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=105&ig_cache_key=MjE3NTU5MjgyNTQzNzg5OTY1Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/2d50a4a40a504df38f33c97255b1f140/5E4FDB10/t51.2885-15/e35/s240x240/75291143_705809889911117_1951187887758868722_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=105&ig_cache_key=MjE3NTU5MjgyNTQzNzg5OTY1Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/a9a198c7bf0da654217a58d219088005/5E5320AA/t51.2885-15/e35/s320x320/75291143_705809889911117_1951187887758868722_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=105&ig_cache_key=MjE3NTU5MjgyNTQzNzg5OTY1Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/ba6b155e7492af0ecd4821f4caf57fc6/5E478FF0/t51.2885-15/e35/s480x480/75291143_705809889911117_1951187887758868722_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=105&ig_cache_key=MjE3NTU5MjgyNTQzNzg5OTY1Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/af0c27fc93aefb62b2866d8709e6fd6a/5E610EFD/t51.2885-15/sh0.08/e35/s640x640/75291143_705809889911117_1951187887758868722_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=105&ig_cache_key=MjE3NTU5MjgyNTQzNzg5OTY1Mw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.frec3-1.fna.fbcdn.net/vp/af0c27fc93aefb62b2866d8709e6fd6a/5E610EFD/t51.2885-15/sh0.08/e35/s640x640/75291143_705809889911117_1951187887758868722_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=105&ig_cache_key=MjE3NTU5MjgyNTQzNzg5OTY1Mw%3D%3D.2",
+            "urls": [
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/03d78519ef5aaa9617520925847bcbe3/5E4B5418/t51.2885-15/e35/75291143_705809889911117_1951187887758868722_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=105&se=8&ig_cache_key=MjE3NTU5MjgyNTQzNzg5OTY1Mw%3D%3D.2"
+            ],
+            "username": "aeso_barrosmelo"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1573495541,
+                        "id": "17971614640291164",
+                        "owner": {
+                            "id": "1181830851",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/6a69f9b9ee364fe7cc9b3961081f2537/5E546D81/t51.2885-19/s150x150/71528364_796517057451307_4817555345796759552_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "cacaubarross"
+                        },
+                        "text": "@thalitarmenezes @gabriellcabral atentos"
+                    },
+                    {
+                        "created_at": 1573496365,
+                        "id": "17856055018624346",
+                        "owner": {
+                            "id": "1277907726",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/5d092251af1551a192a398a579c0465d/5E695DC3/t51.2885-19/11906417_718024601635910_1733221491_a.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "travassosmilena"
+                        },
+                        "text": "Admiro o trabalho dos quatro! ❤️❤️❤️❤️"
+                    },
+                    {
+                        "created_at": 1573501375,
+                        "id": "17853909442628791",
+                        "owner": {
+                            "id": "329119380",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/fdc6fe3fdb70ff733f77386ca1f32843/5E488881/t51.2885-19/s150x150/52344416_299515944062690_3087281810158125056_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "belamariaoficial"
+                        },
+                        "text": "🖤🖤🖤🖤 Perfeitos"
+                    },
+                    {
+                        "created_at": 1573504958,
+                        "id": "17853801739634390",
+                        "owner": {
+                            "id": "47762266",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/0ea7467fa65702d940d9766f45aa5b4d/5E4C7C71/t51.2885-19/s150x150/53470944_1268556983282379_96555975825162240_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "rodrigomaragao"
+                        },
+                        "text": "Minha gente que mesa incrível, que momento lindo!"
+                    },
+                    {
+                        "created_at": 1573517520,
+                        "id": "17861981026577401",
+                        "owner": {
+                            "id": "2354177503",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/676881a5552c08564c0ce0bcc2234635/5E8C287E/t51.2885-19/s150x150/58410042_178569476372856_976476813498777600_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "andrearapela"
+                        },
+                        "text": "Parabéns"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 810,
+                "width": 1080
+            },
+            "display_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/c6d828de1b9ab91a0476cec1c8fe28c2/5E4DA0F1/t51.2885-15/e35/s1080x1080/75660174_642790793128652_568969811432597039_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3NDk1NDk3MzE2NzM5MDMwMA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 153
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "A AESO-Barros Melo promoveu nesta segunda-feira (11) o evento “Por que só em Novembro?”, onde Iyadirê Zidanes, Ronald Santos, Murilo Dayo e PH Reinaux, estudantes e egressos das FIBAM, falaram sobre a consciência negra a partir de trajetórias pessoais, além de pautar lutas e questões que ainda carecem de avanço. \nFotos: Thayse Medeiros #aeso #barrosmelo #consciêncianegra"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 5
+            },
+            "gating_info": null,
+            "id": "2174954977521113723",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "9197497"
+            },
+            "shortcode": "B4u_gdVnRp7",
+            "tags": [
+                "barrosmelo",
+                "consciêncianegra",
+                "aeso"
+            ],
+            "taken_at_timestamp": 1573494859,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/510091250f8d85d8316ed14dac5642f7/5E60FF00/t51.2885-15/e35/c179.0.1081.1081a/s150x150/75660174_642790793128652_568969811432597039_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3NDk1NDk3MzE2NzM5MDMwMA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/582b9bf88a4cb031b698d0e42a402e32/5E89DDB5/t51.2885-15/e35/c179.0.1081.1081a/s240x240/75660174_642790793128652_568969811432597039_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3NDk1NDk3MzE2NzM5MDMwMA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/0f01357fff304e20470971a94b1ab100/5E43EC0D/t51.2885-15/e35/c179.0.1081.1081a/s320x320/75660174_642790793128652_568969811432597039_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3NDk1NDk3MzE2NzM5MDMwMA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/2566b8d05143543d3cb262b815711168/5E483F51/t51.2885-15/e35/c179.0.1081.1081a/s480x480/75660174_642790793128652_568969811432597039_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3NDk1NDk3MzE2NzM5MDMwMA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/77d834c072fe86751099dab297976443/5E6797E4/t51.2885-15/sh0.08/e35/c179.0.1081.1081a/s640x640/75660174_642790793128652_568969811432597039_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3NDk1NDk3MzE2NzM5MDMwMA%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.frec3-1.fna.fbcdn.net/vp/77d834c072fe86751099dab297976443/5E6797E4/t51.2885-15/sh0.08/e35/c179.0.1081.1081a/s640x640/75660174_642790793128652_568969811432597039_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3NDk1NDk3MzE2NzM5MDMwMA%3D%3D.2.c",
+            "urls": [
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/c6d828de1b9ab91a0476cec1c8fe28c2/5E4DA0F1/t51.2885-15/e35/s1080x1080/75660174_642790793128652_568969811432597039_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3NDk1NDk3MzE2NzM5MDMwMA%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/bcc39adb67e07d5206d18511374e2aa5/5E608918/t51.2885-15/e35/s1080x1080/72891255_149040883118174_2443236028600914859_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE3NDk1NDk3MzEwODg5MDU5MQ%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/09069d649e2f2c1a94b50859cedaf964/5E8B9521/t51.2885-15/e35/s1080x1080/73264633_971931889837483_5484785660426719234_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=107&ig_cache_key=MjE3NDk1NDk3MzExNzI2NTUyNQ%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/fca6d3897c48469438eb8c150d52b1c2/5E496FB2/t51.2885-15/e35/s1080x1080/72875973_496186807648597_3434893783408181950_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjE3NDk1NDk3MzEzNDAxOTQ4NQ%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/5addb48395370824000023ddbea19a1a/5E4D8E9B/t51.2885-15/e35/s1080x1080/71597816_178796309963735_2209196136505635631_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3NDk1NDk3MzE1MDY3MzU5MA%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/85bbafb7c09e1b26f29ace80b8eb946c/5E684C66/t51.2885-15/e35/s1080x1080/73387391_163823611376013_29128717940918824_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=109&ig_cache_key=MjE3NDk1NDk3MzA5MjExMTI1Ng%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/9dabb318e63657b4fe64fa8e95b5e526/5E479993/t51.2885-15/e35/s1080x1080/75602159_1249985388522716_9142003203709329458_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3NDk1NDk3MzEyNTQ1NjE5Ng%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/e57d7f4d2e89a797706cc6b60d4432a6/5E4C9257/t51.2885-15/e35/s1080x1080/73412354_1291721261008379_422413375871495783_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3NDk1NDk3MzEzMzg3NjE0Mw%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/d113dde24e7b75dfaee8598a050cd7c5/5E4DAB31/t51.2885-15/e35/s1080x1080/70409903_149827016401875_5522609130641860022_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=103&ig_cache_key=MjE3NDk1NDk3MzE0MjMwMTg2OQ%3D%3D.2"
+            ],
+            "username": "aeso_barrosmelo"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1573467106,
+                        "id": "17851058482683706",
+                        "owner": {
+                            "id": "47762266",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/0ea7467fa65702d940d9766f45aa5b4d/5E4C7C71/t51.2885-19/s150x150/53470944_1268556983282379_96555975825162240_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "rodrigomaragao"
+                        },
+                        "text": "@oronaldsantos @phr.foto"
+                    },
+                    {
+                        "created_at": 1573467690,
+                        "id": "17865466504538405",
+                        "owner": {
+                            "id": "231257394",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/f3109875509fe56776ea83c1ba193331/5E4CC40A/t51.2885-19/s150x150/67879165_2533489250028656_8606362227726876672_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "aleluiaelvis"
+                        },
+                        "text": "lindo ver teu nome num rolê massa desse @iyazidanes 💙"
+                    },
+                    {
+                        "created_at": 1573467966,
+                        "id": "18092451286096473",
+                        "owner": {
+                            "id": "1424690263",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/19fcefe95a10b4e8ac712d78d3b5b02e/5E44842B/t51.2885-19/s150x150/73414109_548351659063819_8966896501406040064_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "rebekadomiingos"
+                        },
+                        "text": "👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽"
+                    },
+                    {
+                        "created_at": 1573468911,
+                        "id": "17847899017734463",
+                        "owner": {
+                            "id": "3168590852",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/c0c8555408af8a7a31c7370adb689081/5E567EE5/t51.2885-19/s150x150/54446533_422484458327665_4238374814043078656_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "iyazidanes"
+                        },
+                        "text": "@aleluiaelvis obrigada 🌷💕"
+                    },
+                    {
+                        "created_at": 1573469977,
+                        "id": "17859725467594796",
+                        "owner": {
+                            "id": "1277907726",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/5d092251af1551a192a398a579c0465d/5E695DC3/t51.2885-19/11906417_718024601635910_1733221491_a.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "travassosmilena"
+                        },
+                        "text": "Essa mesa tá a coisa mais linda! Vai ter boas discursões e trabalhos incríveis!"
+                    },
+                    {
+                        "created_at": 1573472800,
+                        "id": "17876451484476790",
+                        "owner": {
+                            "id": "6311036460",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/f24dd02d44da7388dca7a9ac5957060a/5E5EA2D6/t51.2885-19/s150x150/65200601_1099789180194866_1878367547057766400_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "mwaquim"
+                        },
+                        "text": "💖"
+                    },
+                    {
+                        "created_at": 1573478958,
+                        "id": "17864257762537431",
+                        "owner": {
+                            "id": "870137429",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/88a87aa04d3e7525bfec288f9affa38c/5E42FE52/t51.2885-19/s150x150/67734637_1199972333531223_8534962141642358784_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "nataqueirozl"
+                        },
+                        "text": "Que mesa potente! ❤️"
+                    },
+                    {
+                        "created_at": 1573480018,
+                        "id": "18108107374067539",
+                        "owner": {
+                            "id": "4081906825",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/24199afd3af4f48b26259a9a8643fb79/5E6663A1/t51.2885-19/s150x150/59267597_326315051378126_5578186095343960064_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "gabipessoamarques"
+                        },
+                        "text": "É Pedro Henrique Reinaux, e não Paulo. @phr.foto"
+                    },
+                    {
+                        "created_at": 1573489351,
+                        "id": "17868392146522785",
+                        "owner": {
+                            "id": "498740851",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/4243a16faadcaf2174db75e1020bbc5a/5E5CA1D4/t51.2885-19/s150x150/70481733_986861718325244_2011777378824486912_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "phr.foto"
+                        },
+                        "text": "@aeso_barrosmelo Sou aluno desde 2014, tem todos os meus dados... mas preciso entender que erros acontecem neh. Mas abre oportunidade para a crítica... e aqui segue a minha: mais cuidado e atenção para nós negros os caminhos sao sempre maos duros e turbulento."
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/b152a7b37ef87be737c48acf08b1fd08/5E4F1707/t51.2885-15/e35/76818514_817170882051695_7746151968739839881_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&se=8&ig_cache_key=MjE3NDcxOTkwNTE2MTQ5OTg0Nw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 191
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Para marcar o mês dedicado à consciência negra, a AESO-Barros Melo realiza o evento “Por que só em Novembro?”, que, além de celebrar as conquistas e a cultura do povo negro no país, coloca em destaque a necessidade de manter o negro sempre em situação humana e igualitária na sociedade. É dia 11 de novembro, às 9h, no Cineteatro da instituição de ensino. #aeso #barrosmelo #consciencianegra"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 9
+            },
+            "gating_info": null,
+            "id": "2174719905161499847",
+            "is_video": false,
+            "media_preview": "ACoqjb92dw4GfmH90/3h7H+LH1pCdpyOn3h9D94cf99AdKQkpweB0GeR/wABb+jdTxSLsXhzgZBC4PGex/Pp+Fc50hu2s/rt+vQEf4U8HaCfTAA9cAAD/vo9vSkLjJC7MY6EHPHrQ7RnlTtPbjv64/E4PrzQAYz+6HIH3z6nuB/7Mew4qbco43AY7cce1QDj5FBAHHufXn+Ed8nlu1KMAY+UfRc/rjmgY1eSArZBPQ88Yz1wP1zTJmcSHDBQCvB7cE/059R9KlU7iCoZvck4/Xr+AqCdwJTkZwNvU9CDz+HT8aa3+RL2HW0m3O9uCueTnJH3mHHQ+lXgQRkdDyKxxtKjK4xxkkgD5Qewzk9Ae9X4ZGJVdoC7QevIGOM/j/jRJdRRfQWYfN97aCPTPTv0P8qZx/ef/wAf/wAKklDZzgkY7Hn8sioS0fqf/In+FJFFiRnBG0ZHemeZL6foasUVIyEPJ3H6GkMzA/d/Q1PS0AV1lYkAqQD7Gp80UUAf/9k=",
+            "owner": {
+                "id": "9197497"
+            },
+            "shortcode": "B4uKDtJH1TH",
+            "tags": [
+                "barrosmelo",
+                "consciencianegra",
+                "aeso"
+            ],
+            "taken_at_timestamp": 1573466836,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/a618985bd4010a626a254503312b111a/5E45F845/t51.2885-15/e35/s150x150/76818514_817170882051695_7746151968739839881_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3NDcxOTkwNTE2MTQ5OTg0Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/cb8d1c8dc4b3e95708de325b9b74f9f7/5E429E0F/t51.2885-15/e35/s240x240/76818514_817170882051695_7746151968739839881_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3NDcxOTkwNTE2MTQ5OTg0Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/75c2e2573c526e306de33d171184817c/5E532FB5/t51.2885-15/e35/s320x320/76818514_817170882051695_7746151968739839881_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3NDcxOTkwNTE2MTQ5OTg0Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/c41f5aadcfc85bfaa501e0342df5f8d6/5E53A0EF/t51.2885-15/e35/s480x480/76818514_817170882051695_7746151968739839881_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3NDcxOTkwNTE2MTQ5OTg0Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/9da1c37408179ed4a7e79defa14c4cec/5E5059E2/t51.2885-15/sh0.08/e35/s640x640/76818514_817170882051695_7746151968739839881_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3NDcxOTkwNTE2MTQ5OTg0Nw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.frec3-1.fna.fbcdn.net/vp/9da1c37408179ed4a7e79defa14c4cec/5E5059E2/t51.2885-15/sh0.08/e35/s640x640/76818514_817170882051695_7746151968739839881_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3NDcxOTkwNTE2MTQ5OTg0Nw%3D%3D.2",
+            "urls": [
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/b152a7b37ef87be737c48acf08b1fd08/5E4F1707/t51.2885-15/e35/76818514_817170882051695_7746151968739839881_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&se=8&ig_cache_key=MjE3NDcxOTkwNTE2MTQ5OTg0Nw%3D%3D.2"
+            ],
+            "username": "aeso_barrosmelo"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": []
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/d95cfa6eb14a66117b3a62fbd4a05743/5E662D23/t51.2885-15/e35/71942836_736746386844884_1691315841849644986_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&se=8&ig_cache_key=MjE3MjgwOTkxMDU5NzcxMTE4Nw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 29
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Estão ligados no Prêmio Cria? A iniciativa da AESO-Barros Melo, que premia os projetos práticos e de pesquisa mais inovadores e bem elaborados do ano de 2019, está nos últimos dias de inscrição. O prazo para submissão dos trabalhos é até 13 de novembro. Entre no site, confira o regulamento e participe! #prêmiocria #pesquisa"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2172809910597711187",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "9197497"
+            },
+            "shortcode": "B4nXxoFn_VT",
+            "tags": [
+                "prêmiocria",
+                "pesquisa"
+            ],
+            "taken_at_timestamp": 1573239147,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/0383dfc7d3db2608e51858b09bf30ab8/5E492161/t51.2885-15/e35/s150x150/71942836_736746386844884_1691315841849644986_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3MjgwOTkxMDU5NzcxMTE4Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/9b0b38b97848dc6524c320919d65ee90/5E52E42B/t51.2885-15/e35/s240x240/71942836_736746386844884_1691315841849644986_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3MjgwOTkxMDU5NzcxMTE4Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/1e3eda1a98d4b828e513e614e03d7fa1/5E4E3E91/t51.2885-15/e35/s320x320/71942836_736746386844884_1691315841849644986_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3MjgwOTkxMDU5NzcxMTE4Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/f364d27ad6357cfca219eeb937966f27/5E5FE8CB/t51.2885-15/e35/s480x480/71942836_736746386844884_1691315841849644986_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3MjgwOTkxMDU5NzcxMTE4Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/d6af0ceacb4543a5ef3917df16037a6e/5E4F32C6/t51.2885-15/sh0.08/e35/s640x640/71942836_736746386844884_1691315841849644986_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3MjgwOTkxMDU5NzcxMTE4Nw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.frec3-1.fna.fbcdn.net/vp/d6af0ceacb4543a5ef3917df16037a6e/5E4F32C6/t51.2885-15/sh0.08/e35/s640x640/71942836_736746386844884_1691315841849644986_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3MjgwOTkxMDU5NzcxMTE4Nw%3D%3D.2",
+            "urls": [
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/d95cfa6eb14a66117b3a62fbd4a05743/5E662D23/t51.2885-15/e35/71942836_736746386844884_1691315841849644986_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&se=8&ig_cache_key=MjE3MjgwOTkxMDU5NzcxMTE4Nw%3D%3D.2"
+            ],
+            "username": "aeso_barrosmelo"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1572991873,
+                        "id": "18112101070038421",
+                        "owner": {
+                            "id": "733703945",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/97083520dcee598bbcd472b73dc2020e/5E4233F1/t51.2885-19/s150x150/61711956_392740714779836_4412137555772833792_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "pedrowagneer"
+                        },
+                        "text": "@biaraujoc"
+                    },
+                    {
+                        "created_at": 1572999817,
+                        "id": "18111220354059393",
+                        "owner": {
+                            "id": "521496968",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/273d7a8b1f55195b6c1080e674f82a0f/5E53501E/t51.2885-19/s150x150/72474187_343041876517265_2778411526283853824_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "biaraujoc"
+                        },
+                        "text": "@pedrowagneer Que mara!!!"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 810,
+                "width": 1080
+            },
+            "display_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/5badce0d4c1f3c4243bb1f37416c3962/5E5ECC82/t51.2885-15/e35/s1080x1080/73420460_532466860940051_5251957443459469463_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3MDY4OTczMDA1NjY1NDUyNg%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 251
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "A AESO-Barros Melo inicia as comemorações do Dia do Designer nesta terça-feira (05). A programação conta com palestra sobre Design Contemporâneo, exposição de itens criados pelos alunos e ex-alunos da instituição no Mercadinho Criativo, Flash Tattoo e oficina de introdução à Design Thiking. Amanhã tem mais! Confira a agenda completa no site. Fotos: Thayse Medeiros. #aeso #barrosmelo #DiadoDesigner"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 2
+            },
+            "gating_info": null,
+            "id": "2170689733806518397",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "9197497"
+            },
+            "shortcode": "B4f1s_lH_B9",
+            "tags": [
+                "barrosmelo",
+                "DiadoDesigner",
+                "aeso"
+            ],
+            "taken_at_timestamp": 1572986402,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/91680895cec9a92c88e5a04ad525ffa6/5E44CB5B/t51.2885-15/e35/c179.0.1081.1081a/s150x150/73420460_532466860940051_5251957443459469463_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3MDY4OTczMDA1NjY1NDUyNg%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/a6d35fc9fbcda9def1290111dc035c08/5E578011/t51.2885-15/e35/c179.0.1081.1081a/s240x240/73420460_532466860940051_5251957443459469463_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3MDY4OTczMDA1NjY1NDUyNg%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/5e8f837b259dae7eaac2df22eacd50c8/5E4A92AB/t51.2885-15/e35/c179.0.1081.1081a/s320x320/73420460_532466860940051_5251957443459469463_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3MDY4OTczMDA1NjY1NDUyNg%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/f93cc473e53cfd7d265725c185e95f69/5E67DFF1/t51.2885-15/e35/c179.0.1081.1081a/s480x480/73420460_532466860940051_5251957443459469463_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3MDY4OTczMDA1NjY1NDUyNg%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.frec3-1.fna.fbcdn.net/vp/19b57d86ffcebe79aab4de907576ebc0/5E476690/t51.2885-15/sh0.08/e35/c179.0.1081.1081a/s640x640/73420460_532466860940051_5251957443459469463_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3MDY4OTczMDA1NjY1NDUyNg%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.frec3-1.fna.fbcdn.net/vp/19b57d86ffcebe79aab4de907576ebc0/5E476690/t51.2885-15/sh0.08/e35/c179.0.1081.1081a/s640x640/73420460_532466860940051_5251957443459469463_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3MDY4OTczMDA1NjY1NDUyNg%3D%3D.2.c",
+            "urls": [
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/5badce0d4c1f3c4243bb1f37416c3962/5E5ECC82/t51.2885-15/e35/s1080x1080/73420460_532466860940051_5251957443459469463_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3MDY4OTczMDA1NjY1NDUyNg%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/abaa16ebb7296b36271dae522d20765b/5E4E2931/t51.2885-15/e35/s1080x1080/71511922_582406045901040_6516451706236523689_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjE3MDY4OTczMDAyMzE3ODg0NA%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/deaf9e860771c1b6459b1d2e7d2a4d6b/5E8BDB6F/t51.2885-15/e35/s1080x1080/74459670_2418708428345331_6904246130245057057_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=103&ig_cache_key=MjE3MDY4OTcyOTg3MjA2MTExNQ%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/f44adba7f37e87789e1dad97fddd8a32/5E43B284/t51.2885-15/e35/s1080x1080/71576327_148178786549402_6079386787832402418_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE3MDY4OTczMDA2NTIwMzAwNQ%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/51bce83ac5022ac7f0448a239f944b3e/5E5D3E14/t51.2885-15/e35/s1080x1080/71716858_236198367350074_5587126886740944721_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE3MDY4OTczMDA4MTgyNjY3NA%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/c3c12a495a18ffe04a23ce60b5faecc3/5E598E04/t51.2885-15/e35/s1080x1080/71344349_442364709761545_7440806579629488708_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjE3MDY4OTczMDAxNDc2NTg2Ng%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/705c5dda1459d404c8d9f8a99b8cf787/5E58B1A6/t51.2885-15/e35/s1080x1080/73470518_784851618607652_5647208839255187927_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=108&ig_cache_key=MjE3MDY4OTcyOTk4OTUxNjgyNQ%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/6a7b58742a69fb4e3a930c69a711800f/5E4DC4D9/t51.2885-15/e35/s1080x1080/73043846_1377133399122103_8109602386567140058_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=107&ig_cache_key=MjE3MDY4OTczMDAzOTk2NjE0Nw%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/bbbb81373dfa6b58b454d96095825e79/5E5B73B1/t51.2885-15/e35/s1080x1080/74599490_582103355869423_397914991167189002_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=107&ig_cache_key=MjE3MDY4OTczMDAzMTQyODA0MQ%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/495c0ad25097bc56843498d62d4c7925/5E556427/t51.2885-15/e35/s1080x1080/73512757_772517679839735_5379859193219808854_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE3MDY4OTczMDA0ODE4NzM0Mw%3D%3D.2"
+            ],
+            "username": "aeso_barrosmelo"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1572894385,
+                        "id": "17859556618582061",
+                        "owner": {
+                            "id": "4366023956",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/9fe3a2234a40f7e3e1c3bdc90f0b20ff/5E895451/t51.2885-19/s150x150/74607017_529678381144261_7302760827856093184_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "raissamartinso"
+                        },
+                        "text": "Dea ♥️♥️♥️"
+                    },
+                    {
+                        "created_at": 1572907206,
+                        "id": "18079720759184463",
+                        "owner": {
+                            "id": "1541175650",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/5cc379ff0e56d4c6063ab39f2c8b5d8f/5E4785AF/t51.2885-19/s150x150/37725027_290123135096254_5611224199260536832_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "naracastros_"
+                        },
+                        "text": "👏👏👏👏"
+                    },
+                    {
+                        "created_at": 1572907242,
+                        "id": "17916491110359649",
+                        "owner": {
+                            "id": "1541175650",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/5cc379ff0e56d4c6063ab39f2c8b5d8f/5E4785AF/t51.2885-19/s150x150/37725027_290123135096254_5611224199260536832_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "naracastros_"
+                        },
+                        "text": "@dea_aguiar  @rplgalvao @cezarcavalcanti"
+                    },
+                    {
+                        "created_at": 1572911958,
+                        "id": "17849265856716162",
+                        "owner": {
+                            "id": "1254704",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/10aed869086f365a3e2fd9e618e625a1/5E541643/t51.2885-19/s150x150/50517941_2406652079571899_2581213475892101120_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "dea_aguiar"
+                        },
+                        "text": "@raissamartinso 💗💗"
+                    },
+                    {
+                        "created_at": 1572911984,
+                        "id": "18003665485267323",
+                        "owner": {
+                            "id": "1254704",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/10aed869086f365a3e2fd9e618e625a1/5E541643/t51.2885-19/s150x150/50517941_2406652079571899_2581213475892101120_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "dea_aguiar"
+                        },
+                        "text": "@naracastros_ ✨✨✨"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.frec3-2.fna.fbcdn.net/vp/0621c5981faac54fcc4b79b28da1bcd5/5E420B94/t51.2885-15/e35/s1080x1080/71575322_574825009930298_6283524360366816097_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2OTg5NDYyNDUzODAyNTM5NA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 40
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "A programação do Dia do Designer da AESO-Barros Melo começa nesta terça-feira (05), às 8h, com bate-papo com essas feras do mercado. Vamos receber Andréa Aguiar, da Tum Tum Branding e Design, Rodolfo Galvão, da Cepe Editora, e César Cavalcanti, da Orbe, para falar sobre “Design contemporâneo”. Além das palestras, vai ter Mercadinho Criativo, Flash Tattoo, e Oficina de Introdução à Design Thinking, com a profª Nara Castro. Estão todos intimados a comparecer. Vai ser massa! #diadodesigner #palestra #evento"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 5
+            },
+            "gating_info": null,
+            "id": "2169894628111655822",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "9197497"
+            },
+            "shortcode": "B4dA6rsn6OO",
+            "tags": [
+                "evento",
+                "palestra",
+                "diadodesigner"
+            ],
+            "taken_at_timestamp": 1572891618,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/be5403899e90508bfea2f5c617e5047d/5E44C884/t51.2885-15/e35/s150x150/71575322_574825009930298_6283524360366816097_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2OTg5NDYyNDUzODAyNTM5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/e8cf042416ec70dc3ef8252ce5075c95/5E5BDFCE/t51.2885-15/e35/s240x240/71575322_574825009930298_6283524360366816097_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2OTg5NDYyNDUzODAyNTM5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/b26d6a88191a4fd77ba159ca4f4fce0b/5E454174/t51.2885-15/e35/s320x320/71575322_574825009930298_6283524360366816097_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2OTg5NDYyNDUzODAyNTM5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/8a2ded77c7b4c963c3a23a13380edb20/5E56DD2E/t51.2885-15/e35/s480x480/71575322_574825009930298_6283524360366816097_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2OTg5NDYyNDUzODAyNTM5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/016adad8a82c8d87e5dd2b48ff00ef77/5E47FC23/t51.2885-15/sh0.08/e35/s640x640/71575322_574825009930298_6283524360366816097_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2OTg5NDYyNDUzODAyNTM5NA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.frec3-2.fna.fbcdn.net/vp/016adad8a82c8d87e5dd2b48ff00ef77/5E47FC23/t51.2885-15/sh0.08/e35/s640x640/71575322_574825009930298_6283524360366816097_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2OTg5NDYyNDUzODAyNTM5NA%3D%3D.2",
+            "urls": [
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/0621c5981faac54fcc4b79b28da1bcd5/5E420B94/t51.2885-15/e35/s1080x1080/71575322_574825009930298_6283524360366816097_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2OTg5NDYyNDUzODAyNTM5NA%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/f8d517cc06110deb87c8978826254c50/5E5F1961/t51.2885-15/e35/s1080x1080/71175596_117548589420450_8467749971799346714_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=106&ig_cache_key=MjE2OTg5NDYyNDUxMjczMjk0OA%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/451ddadc185281a97bd74a8585b41e82/5E55F984/t51.2885-15/e35/s1080x1080/74694526_2602677713103635_5414914488687583944_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=111&ig_cache_key=MjE2OTg5NDYyNDU0NjM3MDczNQ%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/1a0c940a9883053ac7f64a2ae6c0131e/5E522B6E/t51.2885-15/e35/75299395_160133191751286_9162257847566510496_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=106&se=7&ig_cache_key=MjE2OTg5NDYyNDUyOTQ5NDU4OA%3D%3D.2"
+            ],
+            "username": "aeso_barrosmelo"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1572639606,
+                        "id": "18062852173172885",
+                        "owner": {
+                            "id": "1181830851",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/6a69f9b9ee364fe7cc9b3961081f2537/5E546D81/t51.2885-19/s150x150/71528364_796517057451307_4817555345796759552_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "cacaubarross"
+                        },
+                        "text": "Passando só pra deixar um recado: a professora Milena arrasa MUITO. Aliás, todas arrasam, mas Milena... 💖"
+                    },
+                    {
+                        "created_at": 1572641309,
+                        "id": "17845320274743175",
+                        "owner": {
+                            "id": "316132174",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/8f15ec499c12d4ac01691a81c49a2300/5E44FD89/t51.2885-19/s150x150/69518736_2424002724537131_6100720655618015232_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "maiaracavalcanti"
+                        },
+                        "text": "@vitorialtsa"
+                    },
+                    {
+                        "created_at": 1572646096,
+                        "id": "17854682179625224",
+                        "owner": {
+                            "id": "1277907726",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/5d092251af1551a192a398a579c0465d/5E695DC3/t51.2885-19/11906417_718024601635910_1733221491_a.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "travassosmilena"
+                        },
+                        "text": "@cacaubarross Cacau, lindona!!!❤️ Gracias!!! ❤️"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 810,
+                "width": 1080
+            },
+            "display_url": "https://instagram.frec3-2.fna.fbcdn.net/vp/4dcf68ae58b6e87708cc77345d5a1000/5E6066E9/t51.2885-15/e35/s1080x1080/73521700_728059127713442_1152173195602670244_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2Nzc3NDU5NzkxMTI0NTc1Ng%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 151
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "No último dia do 2º Congresso Discente das Faculdades Integradas Barros Melo (AESO), o GT11 falou sobre as plataformas de conteúdo digital e implicações jurídicas. \nFotos: Thayse Medeiros. #congressodiscente #pesquisa #aesonaopara"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 3
+            },
+            "gating_info": null,
+            "id": "2167774600880823684",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "9197497"
+            },
+            "shortcode": "B4Ve4OenZ2E",
+            "tags": [
+                "aesonaopara",
+                "pesquisa",
+                "congressodiscente"
+            ],
+            "taken_at_timestamp": 1572638891,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/03a4005227c0cc53b7ba3017755ac61c/5E46C530/t51.2885-15/e35/c179.0.1081.1081a/s150x150/73521700_728059127713442_1152173195602670244_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2Nzc3NDU5NzkxMTI0NTc1Ng%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/df1bdfdb4f9937eb97f912c89ad6aa9b/5E51A87A/t51.2885-15/e35/c179.0.1081.1081a/s240x240/73521700_728059127713442_1152173195602670244_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2Nzc3NDU5NzkxMTI0NTc1Ng%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/1b3bda03c9b46ba0f294a23b42326280/5E4939C0/t51.2885-15/e35/c179.0.1081.1081a/s320x320/73521700_728059127713442_1152173195602670244_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2Nzc3NDU5NzkxMTI0NTc1Ng%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/5756611edd8e80269513a38f75c202a4/5E47379A/t51.2885-15/e35/c179.0.1081.1081a/s480x480/73521700_728059127713442_1152173195602670244_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2Nzc3NDU5NzkxMTI0NTc1Ng%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/d0bc620adbc1c5732df61f1d179ed4ff/5E5A1EFB/t51.2885-15/sh0.08/e35/c179.0.1081.1081a/s640x640/73521700_728059127713442_1152173195602670244_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2Nzc3NDU5NzkxMTI0NTc1Ng%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.frec3-2.fna.fbcdn.net/vp/d0bc620adbc1c5732df61f1d179ed4ff/5E5A1EFB/t51.2885-15/sh0.08/e35/c179.0.1081.1081a/s640x640/73521700_728059127713442_1152173195602670244_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2Nzc3NDU5NzkxMTI0NTc1Ng%3D%3D.2.c",
+            "urls": [
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/4dcf68ae58b6e87708cc77345d5a1000/5E6066E9/t51.2885-15/e35/s1080x1080/73521700_728059127713442_1152173195602670244_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2Nzc3NDU5NzkxMTI0NTc1Ng%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/4d60643f487a7f0b80625bddb4defb25/5E45DAB2/t51.2885-15/e35/s1080x1080/71787851_781612215626070_6041753589822827825_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=106&ig_cache_key=MjE2Nzc3NDU5Nzk2MTY1NTY3Ng%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/20afb746d6d25c437469bcc1fb553356/5E55472A/t51.2885-15/e35/s1080x1080/72198529_101057194650658_6727419218814064429_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2Nzc3NDU5NzkyODA1NTI1MQ%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/a599e39f542ea816caf78a61fa91bef9/5E696CD1/t51.2885-15/e35/s1080x1080/71692781_805692813184872_6634237814304197992_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjE2Nzc3NDU5NzkzNjMyNzE4MA%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/2cc64e07c8423542fce2a0a349940904/5E68BD7C/t51.2885-15/e35/s1080x1080/71268327_579308486139061_4911197706012927830_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjE2Nzc3NDU5Nzk2OTk5Mzk0MA%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/0854c1c6630ada5766689d8ad852cf15/5E4FBBF1/t51.2885-15/e35/s1080x1080/74802015_423960445167483_1583747357933197007_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=103&ig_cache_key=MjE2Nzc3NDU5NzkwMjc3MDM0Mw%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/fbeccbd999939bec02ec787312ceb472/5E5645DF/t51.2885-15/e35/s1080x1080/73423682_410460886566581_4881114358058335082_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=105&ig_cache_key=MjE2Nzc3NDU5Nzk1MzE3MTIyOQ%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/c90ea0ff95dfefd4cb59af1ba61e0390/5E5D7AA2/t51.2885-15/e35/s1080x1080/75366264_547302166107698_5267461121661538764_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2Nzc3NDU5Nzk0NDc2MzIwOA%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/651c764b0b7dd4f317b2305874118823/5E52F709/t51.2885-15/e35/s1080x1080/74694523_435115590522482_4978173793800336645_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2Nzc3NDU5NzkzNjQ2Njk4OA%3D%3D.2"
+            ],
+            "username": "aeso_barrosmelo"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1572616179,
+                        "id": "17867040319520390",
+                        "owner": {
+                            "id": "400688433",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/d965f8460af04703fec58c04ad2a0001/5E52C78D/t51.2885-19/s150x150/26068887_1587423158009751_3887567580432433152_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "taltuagens"
+                        },
+                        "text": "💖💖💖💖💖💖💖"
+                    },
+                    {
+                        "created_at": 1572619757,
+                        "id": "17891125477423837",
+                        "owner": {
+                            "id": "248601813",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/9310cb330cb1b42aa1d9efe5920e55ff/5E57E1FF/t51.2885-19/s150x150/72570257_1162011880648629_5776701755802779648_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "ilanamenezess"
+                        },
+                        "text": "Preços promocionais??? 😆"
+                    },
+                    {
+                        "created_at": 1572625353,
+                        "id": "17910928816371485",
+                        "owner": {
+                            "id": "372355401",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/f0284835c46aa7955f687c9eb391b7a8/5E5FB7DE/t51.2885-19/s150x150/72472587_484651182134220_212608487539081216_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "_almnz"
+                        },
+                        "text": "@yurifgomess"
+                    },
+                    {
+                        "created_at": 1572627465,
+                        "id": "17846540533729043",
+                        "owner": {
+                            "id": "1363691754",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/54b69b9883b627d504cdbc3714877cfb/5E67D6DB/t51.2885-19/s150x150/67323051_455799608337391_5518154169216663552_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "juhmatsumotoo"
+                        },
+                        "text": "Aah, vai ser massa tatuar essa galeraa!"
+                    },
+                    {
+                        "created_at": 1572631163,
+                        "id": "17922853579342815",
+                        "owner": {
+                            "id": "253657056",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/b81bb12d631ec42a918a84ae0a51aaee/5E43233B/t51.2885-19/s150x150/43529827_723651821411838_2261815389656711168_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "flavio_ilustrattt"
+                        },
+                        "text": "De volta pra minha terra ❤️"
+                    },
+                    {
+                        "created_at": 1572712615,
+                        "id": "18112847551050281",
+                        "owner": {
+                            "id": "1219474572",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/7909677913c8f437e53858cf4df08028/5E5DEBD1/t51.2885-19/s150x150/57107302_2264138287171071_2333684640788774912_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "_jamersonaraujo"
+                        },
+                        "text": "👏👏👏"
+                    },
+                    {
+                        "created_at": 1572904624,
+                        "id": "17860853821571743",
+                        "owner": {
+                            "id": "7406270540",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/7f2cd7e8da7575010ed756373e0eb508/5E5785F5/t51.2885-19/s150x150/67562990_1314489198710672_4540784243038486528_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "saintwell_"
+                        },
+                        "text": "uma pergunta, vão aceitar apenas cash ou vai ter maquininha? @taltuagens @aeso_barrosmelo @juhmatsumotoo (não encontrei o @ do Flávio)"
+                    },
+                    {
+                        "created_at": 1572910177,
+                        "id": "17859919435568822",
+                        "owner": {
+                            "id": "400688433",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/d965f8460af04703fec58c04ad2a0001/5E52C78D/t51.2885-19/s150x150/26068887_1587423158009751_3887567580432433152_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "taltuagens"
+                        },
+                        "text": "@saintwell_ vou aceitar cartão e parcelar em até 3x com acréscimo de 10% 💖"
+                    },
+                    {
+                        "created_at": 1572910286,
+                        "id": "17889358546428373",
+                        "owner": {
+                            "id": "1363691754",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/54b69b9883b627d504cdbc3714877cfb/5E67D6DB/t51.2885-19/s150x150/67323051_455799608337391_5518154169216663552_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "juhmatsumotoo"
+                        },
+                        "text": "@saintwell_ tb aceito cartão!"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.frec3-2.fna.fbcdn.net/vp/df5154f1460e4bd86b156410f3aac019/5E8A0825/t51.2885-15/e35/s1080x1080/72402906_527237521401982_8217976660371256684_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2NzU3MTM1ODEyOTQ5MDEzMA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 161
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Você faz parte do time que ama aquele barulhinho da agulha na pele, formando um novo desenho? Então, anota aí: dia 05 de novembro, dentro da programação do Dia do Designer da AESO-Barros Melo, vai rolar Flash Tattoo com três alunos/ex-alunos/amigos da instituição, que são profissionais da área. Confere o perfil de cada um para descobrir qual risco vai fazer. #flashtattoo #tatuagem"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 9
+            },
+            "gating_info": null,
+            "id": "2167571361266814703",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "9197497"
+            },
+            "shortcode": "B4Uwqs1nk7v",
+            "tags": [
+                "flashtattoo",
+                "tatuagem"
+            ],
+            "taken_at_timestamp": 1572614663,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/4a9f13917485fcfe57aa7f23f6ad1be5/5E454F35/t51.2885-15/e35/s150x150/72402906_527237521401982_8217976660371256684_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2NzU3MTM1ODEyOTQ5MDEzMA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/0ce0aecb9dac95bf4d61577889a4e8c8/5E4A297F/t51.2885-15/e35/s240x240/72402906_527237521401982_8217976660371256684_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2NzU3MTM1ODEyOTQ5MDEzMA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/3d6d130e3fc4ace66629ac04d386c791/5E530CC5/t51.2885-15/e35/s320x320/72402906_527237521401982_8217976660371256684_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2NzU3MTM1ODEyOTQ5MDEzMA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/2d38386a3897cadd109b771a4cbc650d/5E8B439F/t51.2885-15/e35/s480x480/72402906_527237521401982_8217976660371256684_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2NzU3MTM1ODEyOTQ5MDEzMA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/8cbb63cbeec4c2b8b821c8d5c122a874/5E4A1492/t51.2885-15/sh0.08/e35/s640x640/72402906_527237521401982_8217976660371256684_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2NzU3MTM1ODEyOTQ5MDEzMA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.frec3-2.fna.fbcdn.net/vp/8cbb63cbeec4c2b8b821c8d5c122a874/5E4A1492/t51.2885-15/sh0.08/e35/s640x640/72402906_527237521401982_8217976660371256684_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2NzU3MTM1ODEyOTQ5MDEzMA%3D%3D.2",
+            "urls": [
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/df5154f1460e4bd86b156410f3aac019/5E8A0825/t51.2885-15/e35/s1080x1080/72402906_527237521401982_8217976660371256684_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2NzU3MTM1ODEyOTQ5MDEzMA%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/661e1d51ffdbf3a9dc17203fc95e54ec/5E432037/t51.2885-15/e35/s1080x1080/76944528_222981332019708_6688810003386461372_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjE2NzU3MTM1ODExMjgwMDg5Mg%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/72acadccbc0cbf001263197b4169ef9d/5E5D6313/t51.2885-15/e35/s1080x1080/75412653_265912354310023_3885811419293870601_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=107&ig_cache_key=MjE2NzU3MTM1ODA5NjAyOTcxMg%3D%3D.2",
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/1d3a07895b0af33b2fc444a46229be6c/5E48628D/t51.2885-15/e35/s1080x1080/74337449_401442434079722_4400636826568187050_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjE2NzU3MTM1ODExMjcxODc0OA%3D%3D.2"
+            ],
+            "username": "aeso_barrosmelo"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1572719896,
+                        "id": "17986743007283218",
+                        "owner": {
+                            "id": "1259755620",
+                            "profile_pic_url": "https://instagram.frec3-1.fna.fbcdn.net/vp/9fa9065c95594c2d0ef80321facacbfa/5E48C91D/t51.2885-19/s150x150/72421890_1358191297681788_4132674788420222976_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net",
+                            "username": "black_phillip18"
+                        },
+                        "text": "Queria ter ido ^^☆"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.frec3-2.fna.fbcdn.net/vp/6e4b2ae95e5978408e6fbc7b8941b3e4/5E5DFEFE/t51.2885-15/e35/71289354_514903225727052_8974361333555403386_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&se=8&ig_cache_key=MjE2Njk5MTg3OTM1NTEyNTcyMg%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 48
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "A 4º edição da Mostra AESO de Audiovisual (MoAA) exibe curtas-metragens de alunos do bacharelado em Cinema e Audiovisual das Faculdades Integradas Barros Melo. Ao todo, serão mostrados 13 filmes, seguidos por três debates. O evento acontece nesta sexta-feira - dia 1º de novembro, às 14h – no auditório da Caixa Cultural. #aesobarrosmelo #cinema #caixaculturalrecife"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2166991879355125722",
+            "is_video": false,
+            "media_preview": "ACoqZFai4bPPAyQByf8APc81JdWscafKpR8jqxII75z09j60trAZs7TjaM/UnoKe0JVAx539vr0/OtOYy5bKyMsrjnj8DRipZYGibDAjPTPepri1MABJDZ4OOx6kVpcyd9fIqgU7FWWtSkQlJ64JXuAc4P44qvii5m9Ny9bS7EYDO4lSPwOeas+edwdhyG3Y7Yxjis6PB7/hUjHsufy6fhWVjqvYsvKm9R8zKr7yT1z2AGfXrUckvnKysm0lgflHf+LOT1x+dUmUr647Zoq7GDmaMlwHLDZhWXAIB3cfdzzjArOxSilxTSsZSlcvDS5V43Jz7E/0pn9nsxB3oOvqM44P5V0VM8tfQfkKz5mdvIjEGmOeQyn6ZNN+wf8ATRPzreCgdBik8tfQfkKOZkOnEwvsX+2v6/4VL/Zz/wB5f1rZ2gdhUZ60lJi9lHt+J//Z",
+            "owner": {
+                "id": "9197497"
+            },
+            "shortcode": "B4Ss6IQHk_a",
+            "tags": [
+                "caixaculturalrecife",
+                "aesobarrosmelo",
+                "cinema"
+            ],
+            "taken_at_timestamp": 1572545584,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/71f2287abe5b762bec8b05005715d428/5E670FBC/t51.2885-15/e35/s150x150/71289354_514903225727052_8974361333555403386_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjE2Njk5MTg3OTM1NTEyNTcyMg%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/af11fb11563aad92cc26e46476156a60/5E57EDF6/t51.2885-15/e35/s240x240/71289354_514903225727052_8974361333555403386_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjE2Njk5MTg3OTM1NTEyNTcyMg%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/19dbe1dd4bcd46114026cc50fbab2935/5E512A4C/t51.2885-15/e35/s320x320/71289354_514903225727052_8974361333555403386_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjE2Njk5MTg3OTM1NTEyNTcyMg%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/c854c1601165218cc0de1a1ad5165eb4/5E546A16/t51.2885-15/e35/s480x480/71289354_514903225727052_8974361333555403386_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjE2Njk5MTg3OTM1NTEyNTcyMg%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/d93a35e65bab617d360717fd7d282db3/5E67C91B/t51.2885-15/sh0.08/e35/s640x640/71289354_514903225727052_8974361333555403386_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjE2Njk5MTg3OTM1NTEyNTcyMg%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.frec3-2.fna.fbcdn.net/vp/d93a35e65bab617d360717fd7d282db3/5E67C91B/t51.2885-15/sh0.08/e35/s640x640/71289354_514903225727052_8974361333555403386_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjE2Njk5MTg3OTM1NTEyNTcyMg%3D%3D.2",
+            "urls": [
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/6e4b2ae95e5978408e6fbc7b8941b3e4/5E5DFEFE/t51.2885-15/e35/71289354_514903225727052_8974361333555403386_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=100&se=8&ig_cache_key=MjE2Njk5MTg3OTM1NTEyNTcyMg%3D%3D.2"
+            ],
+            "username": "aeso_barrosmelo"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments": {
+                "data": []
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.frec3-2.fna.fbcdn.net/vp/e34a09f0fdb6da0d8754812be6e2ef65/5E41FBE1/t51.2885-15/e35/74655046_195148761512446_7000669121522737722_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&se=8&ig_cache_key=MjE2Njk5MTU1MTg2Mzg3MTkyMQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 39
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Hora de voltar à faculdade para compartilhar a jornada de sucesso. É isso que alguns egressos de Produção Fonográfica farão pelas próximas semanas: dias 08, 12 e 14 de novembro. Receberemos os ex-alunos Felipe Andrade, Julia Andrade, Mariana Brito e Nara Araújo para contar casos interessantes da atuação profissional. Vamos conferir? #produçãofonográfica #egressos"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2166991554472660418",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "9197497"
+            },
+            "shortcode": "B4Ss1ZrnU3C",
+            "tags": [
+                "produçãofonográfica",
+                "egressos"
+            ],
+            "taken_at_timestamp": 1572545545,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/e0a8564a03f55d129e253fdfcd9b0369/5E5A59A3/t51.2885-15/e35/s150x150/74655046_195148761512446_7000669121522737722_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2Njk5MTU1MTg2Mzg3MTkyMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/83804e11b963d10f860266fcd97c4fca/5E506CE9/t51.2885-15/e35/s240x240/74655046_195148761512446_7000669121522737722_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2Njk5MTU1MTg2Mzg3MTkyMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/aafab96390cae40d068932fe8879f4cd/5E5D3453/t51.2885-15/e35/s320x320/74655046_195148761512446_7000669121522737722_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2Njk5MTU1MTg2Mzg3MTkyMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/eca84ac487203f00d83a138a959d36c8/5E8A0509/t51.2885-15/e35/s480x480/74655046_195148761512446_7000669121522737722_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2Njk5MTU1MTg2Mzg3MTkyMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.frec3-2.fna.fbcdn.net/vp/3d285abe5b9fee90f09e643a5bafc6d5/5E601804/t51.2885-15/sh0.08/e35/s640x640/74655046_195148761512446_7000669121522737722_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2Njk5MTU1MTg2Mzg3MTkyMQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.frec3-2.fna.fbcdn.net/vp/3d285abe5b9fee90f09e643a5bafc6d5/5E601804/t51.2885-15/sh0.08/e35/s640x640/74655046_195148761512446_7000669121522737722_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&ig_cache_key=MjE2Njk5MTU1MTg2Mzg3MTkyMQ%3D%3D.2",
+            "urls": [
+                "https://instagram.frec3-2.fna.fbcdn.net/vp/e34a09f0fdb6da0d8754812be6e2ef65/5E41FBE1/t51.2885-15/e35/74655046_195148761512446_7000669121522737722_n.jpg?_nc_ht=instagram.frec3-2.fna.fbcdn.net&_nc_cat=110&se=8&ig_cache_key=MjE2Njk5MTU1MTg2Mzg3MTkyMQ%3D%3D.2",
+                "https://instagram.frec3-1.fna.fbcdn.net/vp/20c1e411ddd1ce3cfec25456658766e2/5E5A7202/t51.2885-15/e35/74665247_440045919988757_2469223391578258017_n.jpg?_nc_ht=instagram.frec3-1.fna.fbcdn.net&_nc_cat=105&se=8&ig_cache_key=MjE2Njk5MTU1MTg4MDY4MjY3MA%3D%3D.2"
+            ],
+            "username": "aeso_barrosmelo"
+        }
     ]
 }
